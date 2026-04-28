@@ -7,7 +7,7 @@
 ## 🎯 Animated Intro
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Real-Time+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Real-Time+Apps;Always+Learning+New+Tech" />
 </p>
 
 ---

@@ -41,7 +41,7 @@
 ## 📈 Contribution Graph Snake 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayush00031/Ayush00031/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ayush00031/ayush00031/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

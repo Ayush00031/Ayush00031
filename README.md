@@ -38,14 +38,6 @@
 
 ---
 
-## 📈 Contribution Graph Snake 🐍
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayush00031/ayush00031/output/snake.svg" />
-</p>
-
----
-
 ### 📈 GitHub Metrics Dashboard
 
 ✔ Repo insights & commit tracking
